@@ -12,3 +12,11 @@ experiements with
 ## Videos
 
 - hp printer [part 1](http://www.youtube.com/watch?v=YJTTbCwxDlY), [part 2](http://www.youtube.com/watch?v=lJkTyvPkd4A)
+
+## Links
+
+### Speed Controller
+
+- http://www.bhabbott.net.nz/bridge.html
+- http://www.cp-elektronik.de/index.php/elektronischer-fahrtregler-mit-umpolung/63-fahrtregler-mit-umpolung
+- http://www.arduino-tutorial.de/2010/06/motorsteuerung-mit-einer-mos-fet-brucke/

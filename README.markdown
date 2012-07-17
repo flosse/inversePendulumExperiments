@@ -6,28 +6,32 @@ experiements with
 
 ## Experiment steps
 
-1. take an old DIN A3 Printer
+### 1. take an old DIN A3 Printer
 
 ![old printer](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/oldPrinter.jpg)
 
-2. get rid of unneccessary stuff
+### 2. get rid of unneccessary stuff
 
 ![printer without the cover](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/nakedPrinter.jpg)
 
-3. carefully unmount the motor and test it
+### 3. carefully unmount the motor and test it
 
 ![the motor](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/motor.jpg)
 
-4. study the circuit on the pcb
+### 4. study the circuit on the pcb
 
 ![the pcb surface](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/pcbTop.jpg)
 ![the pcb from the backside](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/pcbBottom.jpg)
 ![the circuit](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/motorScheme.png)
 
-5. Read the sensor signal with an arduino
+### 5. Read the sensor signal with an arduino
 
-![read sensor signal with arduino](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/sensorReadWithArduino.png)
+![read sensor signal with arduino](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/sensorReadWithArduino.jpg)
 
+## Software
+
+- [Arduino](http://www.arduino.cc/)
+- [gEDA](http://www.geda-project.org/)
 
 ## Papers
 

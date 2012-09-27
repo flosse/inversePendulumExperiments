@@ -23,6 +23,7 @@ experiements with
 ![the pcb surface](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/pcbTop.jpg)
 ![the pcb from the backside](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/pcbBottom.jpg)
 ![the circuit](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/motorScheme.png)
+![the connector](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/connectorMap.png)
 
 ### 5. Read the sensor signal with an arduino
 
@@ -31,7 +32,9 @@ experiements with
 ## Software
 
 - [Arduino](http://www.arduino.cc/)
+- [Gnoduino](http://gnome.eu.org/index.php/Gnoduino)
 - [gEDA](http://www.geda-project.org/)
+- [Inkscape](http://www.inkscape.org/)
 
 ## Papers
 

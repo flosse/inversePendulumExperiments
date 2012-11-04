@@ -27,6 +27,7 @@ experiements with
 
 ### 5. Read the sensor signal with an arduino
 
+![slots and sensor](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/motorBack.jpg)
 ![read sensor signal with arduino](https://raw.github.com/flosse/inversePendulumExperiments/master/pics/sensorReadWithArduino.jpg)
 
 ## Software
@@ -35,6 +36,9 @@ experiements with
 - [Gnoduino](http://gnome.eu.org/index.php/Gnoduino)
 - [gEDA](http://www.geda-project.org/)
 - [Inkscape](http://www.inkscape.org/)
+- [scilab](http://www.scilab.org/)
+- [Maxima](https://github.com/andrejv/maxima)
+- [wxMaxima](https://github.com/andrejv/wxmaxima)
 
 ## Papers
 
@@ -52,3 +56,8 @@ experiements with
 - http://www.bhabbott.net.nz/bridge.html
 - http://www.cp-elektronik.de/index.php/elektronischer-fahrtregler-mit-umpolung/63-fahrtregler-mit-umpolung
 - http://www.arduino-tutorial.de/2010/06/motorsteuerung-mit-einer-mos-fet-brucke/
+
+### Control Theory
+
+- http://www.rn-wissen.de/index.php/Regelungstechnik
+- https://de.wikipedia.org/wiki/Regler
